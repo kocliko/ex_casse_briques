@@ -1,0 +1,39 @@
+body
+{
+	background-color : #000000;
+	margin : 0;
+	padding : 0;
+}
+#l1, #l2, #l3, #l4
+{
+	clear : right;
+}
+.violet1
+{
+	width : 10%;
+	height : 30px;
+	background-color : #F1CFFC;
+	float : left;
+}
+.violet2
+{
+	width : 10%;
+	height : 30px;
+	background-color : #AE56CC;
+	float : left;
+}
+.violet3
+{
+	width : 10%;
+	height : 30px;
+	background-color : #6D2885;
+	float : left;
+}
+.violet4
+{
+	width : 10%;
+	height : 30px;
+	background-color : #52046E;
+	float : left;
+}
+
